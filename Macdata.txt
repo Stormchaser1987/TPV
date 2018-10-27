@@ -1,0 +1,2 @@
+29,34,9,1
+toplam gol denemesi, ev sahibi topa sahip olma, kornerler, üst(1)-alt(0)
